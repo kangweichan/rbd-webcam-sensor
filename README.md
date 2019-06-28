@@ -4,6 +4,6 @@ This project was made during a 24 hour Atlassian hackathon, ShipIt. Its purpose 
 
 ## Installation
 
-You _should_ be able to run `yarn && yarn start` from the root of the project to run the website at [http://localhost:3000].
+You _should_ be able to run `yarn && yarn start` from the root of the project to run the website at [http://localhost:3000](http://localhost:3000).
 
 If this doesn't work, feel free to let me know on Twitter ([@kangweichan](https://twitter.com/kangweichan)).
